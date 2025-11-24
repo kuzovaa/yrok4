@@ -1,0 +1,156 @@
+body {
+    background-image: url(https://avatars.mds.yandex.net/i?id=1a0f49f9c0d210e4c8d164984082bd9a_l-7989082-images-thumbs&ref=rim&n=13&w=1000&h=1000);
+    background-repeat: repeat-y;
+}
+
+#logo {
+height: 100px;
+margin: 10px;
+border-radius: 100px;
+}
+
+a {
+    color: #342f2f;
+    font-size: 20px;
+    font-weight: 500;
+margin: 20px;
+    text-align: center;
+} 
+
+a:active {
+color: #000;
+}
+
+a {
+    cursor: pointer;
+}
+
+.menu {
+background-color: #cdc9c9;
+border-radius: 100px;
+height: 110px;
+margin: 50px;
+padding: 50px;
+}
+
+.info1 {
+    height: 620px;
+    background-color: #cdc9c9;
+    border-radius: 100px;
+
+   
+}
+
+#one {
+    height: 300px;
+    margin-left: 300px;
+    border-radius: 500px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin: 10px;
+}
+
+.info2 {
+    height: 1600px;
+    background-color: beige;
+    border-radius: 100px;
+        border: 2px solid #000;
+    border-radius: 10px;
+    width: 255px;
+    margin: 300px; 
+}
+
+.nal {
+      padding: 2px;
+    width: 250px;
+    border-radius: 10px;
+}
+p {
+   text-align: center;
+   margin: 10px;
+}
+
+button {
+    width: 200px;
+height: 50px;
+color:#000000;
+background-color: #96c07a;
+text-align: center;
+ padding: 15px;
+ margin: 30px;
+ border-radius: 100px;
+ transition: 1s;
+}
+
+button:hover {
+    transition: 1s;
+    border: 5px white;
+    padding: 3px;
+    outline: none;
+    box-shadow: 0 0 15px seagreen;
+}
+
+
+
+.form {
+    height: 600px;
+    background-color: #cdc9c9;
+    border-radius: 50px;
+    margin: 100px;
+    padding: 50px;
+    
+}
+
+form {
+    display: grid; min-height: 1vh; place-items: center;
+}
+
+input {
+ width: 300px;
+height: 50px;
+color:#000000;
+background-color: #96c07a;
+text-align: center;
+ padding: 1px;
+ margin: 1px;
+ border-radius: 100px;
+ transition: 1s;
+}
+
+input:focus{
+    box-shadow: 0 0 10px black;
+}
+
+input:hover{
+    cursor: pointer;
+    border: 5px solid #cdc9c9;
+}
+
+
+.podval {
+    height: 350px;
+    background-color: #96c07a;
+    padding: 100px;
+    text-align: left;
+    border-radius: 20px;
+}
+
+#lolo {
+    height: 100px;
+margin-left: 350px;
+    border-radius: 100px;
+    background-position: center;
+}
+h5 {
+    text-align: center;
+}
+
+.back {
+    color: #000;
+    font-size: 15px;
+  
+}
